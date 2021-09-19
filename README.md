@@ -1,1 +1,1 @@
-https://Train-of-chaos.github.io/rsschool-cv/
+https://Train-of-chaos.github.io/rsschool-c
